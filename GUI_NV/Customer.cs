@@ -217,5 +217,10 @@ namespace PBL3.GUI_NV
 
             }
         }
+
+        private void gridControl1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
